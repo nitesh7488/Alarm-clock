@@ -9,3 +9,4 @@ When the set alarm time is reached, the app plays an audible alarm as well as di
 
 I use this alarm clock app daily, keeping it open in a web browser to set alarms for meeting reminders or setting productivity timers when working from home.
 I prefer using this app now over setting alarms on a phone for ease of use.
+![Screenshot (188)](https://user-images.githubusercontent.com/120910923/224683552-b15b3db2-ebbb-40a1-9e6d-7c776b629b69.png)
